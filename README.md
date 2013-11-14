@@ -13,7 +13,8 @@ The part of your website that no one cares about.
 ### JavaScript
 Most popular language that people create entire libraries to undo language features (read: prototypes vs. classes)
 ### jQuery
-Most requested ability
+Q: How do you add two numbers together in JavaScript?<br />
+A: [Use jQuery](http://www.doxdesk.com/img/updates/20091116-so-large.gif)
 ### Responsive
 Doesn't fall apart when you resize
 ### Grunt
